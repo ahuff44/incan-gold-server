@@ -1,0 +1,5 @@
+/private/
+/node_modules/
+/docker-compose.override.yml
+*.log
+/on_hotreload.sh
