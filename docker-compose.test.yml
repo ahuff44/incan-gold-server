@@ -1,4 +1,4 @@
 api:
-    build: .
-    environment:
-      NODE_ENV: test
+  build: .
+  environment:
+    NODE_ENV: test

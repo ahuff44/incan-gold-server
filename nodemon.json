@@ -1,5 +1,5 @@
 {
   "events": {
-    "restart": "[ -f ./on_hotreload.sh ] && bash ./on_hotreload.sh"
+    "restart": "[ -f ./on_hotreload.sh ] && ./on_hotreload.sh"
   }
 }
