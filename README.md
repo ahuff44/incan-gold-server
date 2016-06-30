@@ -1,16 +1,16 @@
-# incan-gold
+# incan-gold-server
 
-A RESTful API server for playing incan gold.
+A RESTful API for playing [Incan Gold](http://aichallenge.org/).
 
-With inspiration from @zachpendleton's
+With inspiration from
 [connect-four](https://github.com/zachpendleton/connect-four)
-and [battleship](http://battleship.inseng.net/doc/api.html)
+and [aichallenge.org](http://aichallenge.org/)
 
 ## Local Development:
 
 ```bash
 docker-compose build
-docker-compose run --rm api npm install --dev
+docker-compose run --rm api npm install
 docker-compose up
 ```
 
